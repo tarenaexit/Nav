@@ -3,7 +3,6 @@ name: code-sync
 on:
   push:
     branches: [main]
-  workflow_dispatch:
 
 jobs:
   push-to-mirror:
