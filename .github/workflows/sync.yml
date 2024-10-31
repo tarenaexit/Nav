@@ -10,7 +10,6 @@ jobs:
     steps:
       - name: Clone
         run: |
-          echo "Run Clone Step!"
           git config --global init.defaultBranch main
           git init
           git remote add origin https://${GITHUB_USERNAME}:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git
@@ -19,7 +18,7 @@ jobs:
             git branch --track ${branch##*/} $branch
           done
         env:
-          GITHUB_REPOSITORY: shenweiyan/Bioit-top
+          GITHUB_REPOSITORY: tarenaexit/Nav
           GITHUB_USERNAME: ${{ secrets.GH_USERNAME }}
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           
@@ -34,24 +33,13 @@ jobs:
           #git push --all --force coding
           #git push --tags --force coding
         env:
-          CODING_REPOSITORY: shenweiyan/webstack/nav.bioitee.src
-          CODING_USERNAME: ${{ secrets.CODING_USERNAME }}
-          CODING_PASSWORD: ${{ secrets.CODING_PASSWORD }}
-          
-      - name: Push to Gitee 
-        uses: Yikun/hub-mirror-action@master
-        with:
-          src: github/shenweiyan
-          dst: gitee/shenweiyan
-          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
-          dst_token: ${{ secrets.GITEE_TOKEN }}
-          static_list: "Bioit-top"
-          force_update: true
-          timeout: '0.5h'
+          CODING_REPOSITORY: shumlab/webstack/Nav
+          #CODING_USERNAME: ${{ secrets.CODING_USERNAME }}
+          #CODING_PASSWORD: ${{ secrets.CODING_PASSWORD }}
 
-      - name: Push to GitCode
+      - name: Push to Gitcode
         run: |
-          remote_repo="https://shenweiyan:${GITCODE_PAT}@gitcode.com/${GITCODE_REPOSITORY}.git"
+          remote_repo="https://tarenaexit:${GITCODE_PAT}@gitcode.com/${GITCODE_REPOSITORY}.git"
           git remote add gitcode "${remote_repo}"
           git show-ref
           git branch --verbose
@@ -59,5 +47,16 @@ jobs:
           git push --all --force gitcode
           git push --tags --force gitcode
         env:
-          GITCODE_REPOSITORY: shenweiyan/Bioit-top
+          GITCODE_REPOSITORY: tarenaexit/Nav
           GITCODE_PAT: ${{ secrets.GITCODE_PAT }}
+          
+      - name: Push to Gitee 
+        uses: Yikun/hub-mirror-action@master
+        with:
+          src: github/tarenaexit
+          dst: gitee/deffyc
+          dst_key: ${{ secrets.GITEE_PRIVATE_KEY }}
+          dst_token: ${{ secrets.GITEE_TOKEN }}
+          static_list: "Nav"
+          force_update: true
+          timeout: '0.5h'
