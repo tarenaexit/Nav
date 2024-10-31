@@ -39,5 +39,5 @@ jobs:
           #发布到哪个branch
           publish_branch: gh-pages
           force_orphan: true
-          cname: nav.hj2z.top
+          cname: nav.hj2z.com
           full_commit_message: ${{ github.event.head_commit.message }}
