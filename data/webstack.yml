@@ -1,8 +1,12 @@
 ---
 
-- taxonomy: 作者站点
+- taxonomy: 作者专用
   icon: fas fa-medal
   links:
+    - title: '常用教学软件'
+      logo: x/xiangtanjiaoxue.png
+      url: https://123425rcy.mh.chaoxing.com/engine2/general/more?appId=520680&websiteId=64325&wfwfid=123425&pageId=88230&typeId=3013138&currentBranch=0
+      description: 常用教学软件应用百宝箱
     - title: '史提芬先森 · 语雀'
       logo: y/yuque.webp
       url: https://www.yuque.com/shenweiyan
