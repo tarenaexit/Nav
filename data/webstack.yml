@@ -10,11 +10,11 @@
     - title: '丁玉海收藏夹'
       logo: p/pintree.PNG
       url: https://pintree.ccsyue.com/?bookmark=json/dingyuhai.json
-      description: 常用教学软件应用百宝箱
+      description: 常用教学工具
     - title: '书签html转json'
       logo: p/pintree.PNG
       url: https://pintree.io/json-converter.html
-      description: 常用教学软件应用百宝箱
+      description: 书签html转 pintree 可是识别的json格式
     - title: '史提芬先森 · 语雀'
       logo: y/yuque.webp
       url: https://www.yuque.com/shenweiyan
