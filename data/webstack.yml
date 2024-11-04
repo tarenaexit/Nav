@@ -7,6 +7,14 @@
       logo: x/xiangtanjiaoxue.png
       url: https://123425rcy.mh.chaoxing.com/engine2/general/more?appId=520680&websiteId=64325&wfwfid=123425&pageId=88230&typeId=3013138&currentBranch=0
       description: 常用教学软件应用百宝箱
+    - title: '丁玉海收藏夹'
+      logo: p/pintree.PNG
+      url: https://pintree.ccsyue.com/?bookmark=json/dingyuhai.json
+      description: 常用教学软件应用百宝箱
+    - title: '书签html转json'
+      logo: p/pintree.PNG
+      url: https://pintree.io/json-converter.html
+      description: 常用教学软件应用百宝箱
     - title: '史提芬先森 · 语雀'
       logo: y/yuque.webp
       url: https://www.yuque.com/shenweiyan
