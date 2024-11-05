@@ -4,47 +4,47 @@
   icon: fas fa-medal
   links:
     - title: '常用教学软件'
-      logo: x/xiangtanjiaoxue.png
+      logo: res.ccsyue.com/logos/x/xiangtanjiaoxue.png
       url: https://123425rcy.mh.chaoxing.com/engine2/general/more?appId=520680&websiteId=64325&wfwfid=123425&pageId=88230&typeId=3013138&currentBranch=0
       description: 常用教学软件应用百宝箱
     - title: '丁玉海收藏夹'
-      logo: p/pintree.PNG
+      logo: res.ccsyue.com/logos/p/pintree.PNG
       url: https://pintree.ccsyue.com/?bookmark=json/dingyuhai.json
       description: 常用教学工具
     - title: '书签html转json'
-      logo: p/pintree.PNG
+      logo: res.ccsyue.com/logos/p/pintree.PNG
       url: https://pintree.io/json-converter.html
       description: 书签html转 pintree 可是识别的json格式
     - title: '史提芬先森 · 语雀'
-      logo: y/yuque.webp
+      logo: res.ccsyue.com/logos/y/yuque.webp
       url: https://www.yuque.com/shenweiyan
       description: 作者的语雀花园主页。
     - title: Knowledge-Garden
-      logo: k/knowledge-garden.webp
+      logo: res.ccsyue.com/logos/k/knowledge-garden.webp
       url: https://github.com/shenweiyan/Knowledge-Garden
       description: All in GitHub Discussions.
     - title: 知识花园
-      logo: o/octocat.png
+      logo: res.ccsyue.com/logos/o/octocat.png
       url: https://weiyan.cc
       description: 基于 MkDocs Material 个人站点。
     - title: BioIT 爱好者
-      logo: b/bioitee.webp
+      logo: res.ccsyue.com/logos/b/bioitee.webp
       url: https://www.bioitee.com/
       description: BioIT 爱好者主页。
     - title: Markdown2Html
-      logo: m/markdown.png
+      logo: res.ccsyue.com/logos/m/markdown.png
       url: https://md.bioitee.com/
       description: 公众号 Markdown 排版利器。
     - title: 飞书消息
-      logo: l/lark-suite.webp
+      logo: res.ccsyue.com/logos/l/lark-suite.webp
       url: https://shenweiyan.feishu.cn/next/messenger
       description: 先进企业，先用飞书。
     - title: 'Lark Suite Messenger'
-      logo: l/lark-suite.webp
+      logo: res.ccsyue.com/logos/l/lark-suite.webp
       url: https://shenweiyan.sg.larksuite.com/next/messenger
       description: 先进企业协作与管理平台。
     - title: 关注我们
-      logo: q/qrcode.png
+      logo: res.ccsyue.com/logos/q/qrcode.png
       url: https://www.bioitee.com
       qrcode: https://res.bioit.top/logos/qrcode.jpg
       description: 微信公众号：BioIT 爱好者！
@@ -55,241 +55,241 @@
     - term: 文学
       links:
         - title: Neat Reader
-          logo: www.neat-reader.cn
+          logo: res.ccsyue.com/logos/www.neat-reader.cn
           url: http://blog.ccsyue.com
           qrcode: https://publicfather.ccsyue.com/favicon.im/www.neat-reader.cn
           description: 充分利用最新的 Web 技术，结合具有美感的界面设计，精益求精，只为让你享受到最好的阅读体验。阅读提高生活品质，Neat Reader 提高阅读品质。
         - title: 联合图书馆
-          logo: s.yc.lhlib.vip
+          logo: res.ccsyue.com/logos/s.yc.lhlib.vip
           url: http://www.ccsyue.com
           qrcode: https://publicfather.ccsyue.com/favicon.im/s.yc.lhlib.vip
           description: 联合网络图书馆在线目录为全国中小型图书馆提供了国内所有入网用户的图书馆资源，是全国资源共享的整合平台，读者通过本平台可以享受丰富的资源服务和个性化现代服务，如在线图书推荐、为图书增加书签、进行书评，查阅自己所借的图书以及网上预约、续借等服务，读者可以通过自己本馆所提供的账户获取更多的服务细节以及个人相关信息的更新。欢迎各类图书馆免费索取测试帐号和密码。如果您在使用过程中有更好的建议，欢迎致电0351-6014519或发邮件致mdlib@tyut.edu.cn
         - title: 百花苑
-          logo: jiehou.oschina.io
+          logo: res.ccsyue.com/logos/jiehou.oschina.io
           url: http://houjie-kindle.appspot.com
           qrcode: https://publicfather.ccsyue.com/favicon.im/jiehou.oschina.io
           description: 提高作文水平的文摘。
         - title: 新语丝
-          logo: newxys6.com
+          logo: res.ccsyue.com/logos/newxys6.com
           url: https://51.ruyo.net
           qrcode: https://publicfather.ccsyue.com/favicon.im/newxys6.com
           description: 新语丝社于一九九七年二月正式登记为一非盈利性的社团。但是自一九九四年二月起，新语丝社即已开始活动。新语丝社的宗旨是以出版电子刊物、建立电子文库等方式在计算机网络传播中华文化。目前新语丝社已经出版中文电子刊物《新语丝》，建立新语丝电子文库，新语丝电子图库和“新语丝之友”通讯网。
         - title: 杜甫绝句注释
-          logo: 419458885.github.io
+          logo: res.ccsyue.com/logos/419458885.github.io
           url: https://e.ccsyue.com/tool/exceltomarkdown/
           qrcode: https://publicfather.ccsyue.com/favicon.im/419458885.github.io
           description: 杜甫是唐代最伟大的诗人，他的作品各体俱工，是一代宗匠。但他的绝句，却与盛唐诸名家有些不同。他以高度的创造力，于诸家之外，努力创新，别开生面，胆大手灵，不受拘束，不因袭成法。
         - title: 歇后语
-          logo: e.ccsyue.com
+          logo: res.ccsyue.com/logos/e.ccsyue.com
           url: https://e.ccsyue.com/tool/markdown/
           qrcode: https://publicfather.ccsyue.com/favicon.im/e.ccsyue.com
           description: 亲自操刀整理。
         - title: 中图法
-          logo: www.clcindex.com
+          logo: res.ccsyue.com/logos/www.clcindex.com
           url: https://kast.gg/
           qrcode: https://publicfather.ccsyue.com/favicon.im/www.clcindex.com
           description: Chinese Library Classification简称《中图法》，是建国后编制出版的一部具有代表性的大型综合性分类法，是当今国内图书馆使用最广泛的分类法体系。
         - title: CALIS
-          logo: opac.calis.edu.cn
+          logo: res.ccsyue.com/logos/opac.calis.edu.cn
           url: https://e.ccsyue.com/tool/dic/
           qrcode: https://publicfather.ccsyue.com/favicon.im/opac.calis.edu.cn
           description: 中国高等教育文献保障系统（China Academic Library & Information System,简称CALIS），是经国务院批准的我国高等教育“211工程”“九五”“十五”总体规划中三个公共服务体系之一。CALIS的宗旨是,在教育部的领导下，把国家的投资、现代图书馆理念、先进的技术手段、高校丰富的文献资源和人力资源整合起来，建设以中国高等教育数字图书馆为核心的教育文献联合保障体系，实现信息资源共建、共知、共享，以发挥最大的社会效益和经济效益，为中国的高等教育服务。 
         - title: readfree
-          logo: readfree.me
+          logo: res.ccsyue.com/logos/readfree.me
           url: https://www.papaparse.com/demo
           qrcode: https://publicfather.ccsyue.com/favicon.im/readfree.me
           description: 基于豆瓣和 Kindle239 的电子书阅读平台,为爱读书的人提供便利.
         - title: 美国国家学术出版社
-          logo: www.nap.edu
+          logo: res.ccsyue.com/logos/www.nap.edu
           url: https://e.ccsyue.com/tool/timer/
           qrcode: https://publicfather.ccsyue.com/favicon.im/www.nap.edu
           description: National Academies Press，NAP
     - term: 博客
       links:
         - title: 静态博客
-          logo: blog.ccsyue.com
+          logo: res.ccsyue.com/logos/blog.ccsyue.com
           url: https://e.ccsyue.com/tool/quchong/
           qrcode: https://publicfather.ccsyue.com/favicon.im/blog.ccsyue.com
           description: github托管的静态博客
         - title: 匆匆岁月
-          logo: www.ccsyue.com
+          logo: res.ccsyue.com/logos/www.ccsyue.com
           url: https://e.ccsyue.com/tool/apicloadimport/
           qrcode: https://publicfather.ccsyue.com/favicon.im/www.ccsyue.com
           description: 以前的文章
         - title: kindleEar
-          logo: houjie-kindle.appspot.com
+          logo: res.ccsyue.com/logos/houjie-kindle.appspot.com
           url: https://e.ccsyue.com/tool/msg/
           qrcode: https://publicfather.ccsyue.com/favicon.im/houjie-kindle.appspot.com
           description: A website application running in Google app engine, deliver rss news to your kindle. generate mobi using python, multilanguages supported.
         - title: 如有乐享
-          logo: 51.ruyo.net
+          logo: res.ccsyue.com/logos/51.ruyo.net
           url: https://e.ccsyue.com/tool/duoyin/
           qrcode: https://publicfather.ccsyue.com/favicon.im/51.ruyo.net
           description: 分享是一种美德，是一种态度。
     - term: web
       links:
         - title: MD表格
-          logo: e.ccsyue.com
+          logo: res.ccsyue.com/logos/e.ccsyue.com
           url: http://zhitu.isux.us
           qrcode: https://publicfather.ccsyue.com/favicon.im/e.ccsyue.com
           description: excel粘贴到文本框（不能包含合并单元格），可以转换为markdown格式的表格。
         - title: markdown
-          logo: e.ccsyue.com
+          logo: res.ccsyue.com/logos/e.ccsyue.com
           url: https://e.ccsyue.com/tool/calendar/
           qrcode: https://publicfather.ccsyue.com/favicon.im/e.ccsyue.com
           description: markdown 在线编辑与预览
         - title: kast
-          logo: kast.gg
+          logo: res.ccsyue.com/logos/kast.gg
           url: https://jx.htv009.com/?url=
           qrcode: https://publicfather.ccsyue.com/favicon.im/kast.gg
           description: 原rabb.it应用
         - title: 手写查字
-          logo: e.ccsyue.com
+          logo: res.ccsyue.com/logos/e.ccsyue.com
           url: http://love.appinn.com/
           qrcode: https://publicfather.ccsyue.com/favicon.im/e.ccsyue.com
           description: 手写汉字在百度汉语里查音、义，无广告。
         - title: excel to json
-          logo: www.papaparse.com
+          logo: res.ccsyue.com/logos/www.papaparse.com
           url: https://travis-ci.org
           qrcode: https://publicfather.ccsyue.com/favicon.im/www.papaparse.com
           description: excel转json,csv转json
         - title: 定时器
-          logo: e.ccsyue.com
+          logo: res.ccsyue.com/logos/e.ccsyue.com
           url: https://prose.io/#deffyc/blog/tree/src/source/_posts
           qrcode: https://publicfather.ccsyue.com/favicon.im/e.ccsyue.com
           description: 这是一个简单的在线定时器，只要能上网，浏览器支持 JavaScript 就可以使用。甚至在 iPhone, iPad 等移动设备上也能很好的运行。如果你需要一些短期的提醒，或是上网期间的提醒，完全不必启动 Aero Timer Plus 或是 Aero Timer One，直接访问 aerotimer.com 就可以了。
         - title: 文本去重
-          logo: e.ccsyue.com
+          logo: res.ccsyue.com/logos/e.ccsyue.com
           url: http://note.baidu.com/
           qrcode: https://publicfather.ccsyue.com/favicon.im/e.ccsyue.com
           description: （按行=>'\n'）,windows下默认回车键是\r\n，从前往后复制没问题，从后往前最后一样必须为空行。将文本粘贴到文本框即按顺序去重。
         - title: 导入Json
-          logo: e.ccsyue.com
+          logo: res.ccsyue.com/logos/e.ccsyue.com
           url: https://oa.sandcats.io/
           qrcode: https://publicfather.ccsyue.com/favicon.im/e.ccsyue.com
           description: 下载到本地配合hfs.exe使用
         - title: 阅后即焚
-          logo: e.ccsyue.com
+          logo: res.ccsyue.com/logos/e.ccsyue.com
           url: https://tu.aixinxi.net
           qrcode: https://publicfather.ccsyue.com/favicon.im/e.ccsyue.com
           description: 方便手机与电脑之间的文本传输。
         - title: 文本转音频
-          logo: e.ccsyue.com
+          logo: res.ccsyue.com/logos/e.ccsyue.com
           url: https://sm.ms
           qrcode: https://publicfather.ccsyue.com/favicon.im/e.ccsyue.com
           description: 需要开启专用转换程序
         - title: 智图
-          logo: zhitu.isux.us
+          logo: res.ccsyue.com/logos/zhitu.isux.us
           url: https://send.firefox.com/
           qrcode: https://publicfather.ccsyue.com/favicon.im/zhitu.isux.us
           description: 智图是腾讯ISUX前端团队开发的一个专门用于图片压缩和图片格式转换的平台，其功能包括针对png,jpeg,gif等各类格式图片的压缩，以及为上传图片自动选择最优的图片格式。同时，智图平台还会为用户转换一份webp格式的图片。
         - title: 阴历阳历
-          logo: e.ccsyue.com
+          logo: res.ccsyue.com/logos/e.ccsyue.com
           url: http://ggfwzs.com/
           qrcode: https://publicfather.ccsyue.com/favicon.im/e.ccsyue.com
           description: 1900-2100年阴历阳历互换。
     - term: 收藏夹
       links:
         - title: 解析大师
-          logo: jx.htv009.com
+          logo: res.ccsyue.com/logos/jx.htv009.com
           url: http://deffyc.gicp.net
           qrcode: https://publicfather.ccsyue.com/favicon.im/jx.htv009.com
           description: 本解析全部免费,长期稳定,绝无广告！可自己下载源码搭建自己的解析平台！诚意良心提供JSON接口，输出无任何加密处理的结果，方便大家接入ＡＰＰ
         - title: 小众软件
-          logo: love.appinn.com
+          logo: res.ccsyue.com/logos/love.appinn.com
           url: #http://cloud.ccsyue.com
           qrcode: https://publicfather.ccsyue.com/favicon.im/love.appinn.com
           description: 名气 不等于 优秀，优秀 不等于 适合，这里可以让你相对轻松的从几款知名或者优秀的软件中，寻找到最适合自己的。
         - title: travis-ci
-          logo: travis-ci.org
+          logo: res.ccsyue.com/logos/travis-ci.org
           url: http://plex.ccsyue.com
           qrcode: https://publicfather.ccsyue.com/favicon.im/travis-ci.org
           description: Travis CI是一个基于云的持续集成项目， 目前已经支持大部分主流语言了，比如：C，PHP，Ruby，Python, Nodejs等等。和Jenkins类似， Travis CI也是开源的，不过Travis和Github集成非常紧密，官方的集成测试托管只支持Github项目， 不过你也可以搭建一套自己的方案。 
         - title: Prose
-          logo: prose.io
+          logo: res.ccsyue.com/logos/prose.io
           url: https://e.ccsyue.com/tool/chanlun/
           qrcode: https://publicfather.ccsyue.com/favicon.im/prose.io
           description: Prose provides a beautifully simple content authoring environment for CMS-free websites. It's a web-based interface for managing content on GitHub. Use it to create, edit, and delete files, and save your changes directly to GitHub. Host your website on GitHub Pages for free, or set up your own GitHub webhook server. 
         - title: 百度云笔记
-          logo: note.baidu.com
+          logo: res.ccsyue.com/logos/note.baidu.com
           url: https://hutube.herokuapp.com/
           qrcode: https://publicfather.ccsyue.com/favicon.im/note.baidu.com
           description: 记录常用信息。
         - title: sandstorm
-          logo: oa.sandcats.io
+          logo: res.ccsyue.com/logos/oa.sandcats.io
           url: https://hougd.herokuapp.com/
           qrcode: https://publicfather.ccsyue.com/favicon.im/oa.sandcats.io
           description: 我的在线工具箱
         - title: 爱信息图床
-          logo: tu.aixinxi.net
+          logo: res.ccsyue.com/logos/tu.aixinxi.net
           url: http://eh.ccsyue.com/https://e.ccsyue.com/tool/basic/web/index.php?r=cat/index&sort=-createtime
           qrcode: https://publicfather.ccsyue.com/favicon.im/tu.aixinxi.net
           description: 文件类别多，最大10M
         - title: SM.MS图床
-          logo: sm.ms
+          logo: res.ccsyue.com/logos/sm.ms
           url: http://eh.ccsyue.com/https://e.ccsyue.com/tool/basic/web/index.php?r=paper
           qrcode: https://publicfather.ccsyue.com/favicon.im/sm.ms
           description: 只能上传图片，最大5M
         - title: firefox send
-          logo: send.firefox.com
+          logo: res.ccsyue.com/logos/send.firefox.com
           url: http://eh.ccsyue.com/https://e.ccsyue.com/tool/searchkeys/
           qrcode: https://publicfather.ccsyue.com/favicon.im/send.firefox.com
           description: 通过安全、私密且受加密的链接发送文件，链接到期后文件将从网上彻底抹除。
         - title: 访问助手
-          logo: ggfwzs.com
+          logo: res.ccsyue.com/logos/ggfwzs.com
           url: 
           qrcode: https://publicfather.ccsyue.com/favicon.im/ggfwzs.com
           description: 谷歌访问助手，谷歌chrome浏览器商店，gmail邮箱提供加速服务，解决偶尔打不开的问题
         - title: 祥和路由
-          logo: deffyc.gicp.net
+          logo: res.ccsyue.com/logos/deffyc.gicp.net
           url: 
           qrcode: https://publicfather.ccsyue.com/favicon.im/deffyc.gicp.net
           description: 祥和
     - term: #收藏夹
       links:
         - title: #祥和Nas
-          logo: cloud.ccsyue.com
+          logo: res.ccsyue.com/logos/cloud.ccsyue.com
           url: 
           qrcode: https://publicfather.ccsyue.com/favicon.im/cloud.ccsyue.com
           description: #祥和
     - term: 收藏夹
       links:
         - title: 祥和Plex
-          logo: plex.ccsyue.com
+          logo: res.ccsyue.com/logos/plex.ccsyue.com
           url: 
           qrcode: https://publicfather.ccsyue.com/favicon.im/plex.ccsyue.com
           description: 祥和
     - term: 看看
       links:
         - title: 缠论K线
-          logo: e.ccsyue.com
+          logo: res.ccsyue.com/logos/e.ccsyue.com
           url: 
           qrcode: https://publicfather.ccsyue.com/favicon.im/e.ccsyue.com
           description: K线
         - title: tube video
-          logo: hutube.herokuapp.com
+          logo: res.ccsyue.com/logos/hutube.herokuapp.com
           url: 
           qrcode: https://publicfather.ccsyue.com/favicon.im/hutube.herokuapp.com
           description: tube video
         - title: gdshare
-          logo: hougd.herokuapp.com
+          logo: res.ccsyue.com/logos/hougd.herokuapp.com
           url: 
           qrcode: https://publicfather.ccsyue.com/favicon.im/hougd.herokuapp.com
           description: gdshare
     - term: 图书
       links:
         - title: 馆藏检索
-          logo: eh.ccsyue.com
+          logo: res.ccsyue.com/logos/eh.ccsyue.com
           url: 
           qrcode: https://publicfather.ccsyue.com/favicon.im/eh.ccsyue.com
           description: 二中图书馆馆藏检索，三步借书：第一步：打开http://www.hj2z.com ，点击“馆藏检索”链接。第二步：搜索想看的，在纸片上抄下索书号和书名。第三步：带上读者证和纸片，到二楼藏书室取书。
         - title: 报刊检索
-          logo: eh.ccsyue.com
+          logo: res.ccsyue.com/logos/eh.ccsyue.com
           url: 
           qrcode: https://publicfather.ccsyue.com/favicon.im/eh.ccsyue.com
           description: 查找学校阅览室的报纸杂志，不知道地方可以问管理员
         - title: 馆藏定位
-          logo: eh.ccsyue.com
+          logo: res.ccsyue.com/logos/eh.ccsyue.com
           url: 
           qrcode: https://publicfather.ccsyue.com/favicon.im/eh.ccsyue.com
           description: 据索书号、图书编号搜索图书位置
@@ -298,43 +298,43 @@
   icon: far fa-star
   links: 
     - title: 语雀
-      logo: y/yuque.webp
+      logo: res.ccsyue.com/logos/y/yuque.webp
       url: https://www.yuque.com/
       description: 专业的云端知识库。
     - title: 开源中国
-      logo: o/oschina.webp
+      logo: res.ccsyue.com/logos/o/oschina.webp
       url: https://www.oschina.net/
       description: 中文开源技术交流社区。
     - title: 公众号平台
-      logo: m/mp-weixin.png
+      logo: res.ccsyue.com/logos/m/mp-weixin.png
       url: https://mp.weixin.qq.com/
       description: 再小的个体也有自己的品牌。
     - title: 搜狗微信
-      logo: s/sogou.webp
+      logo: res.ccsyue.com/logos/s/sogou.webp
       url: https://weixin.sogou.com/
       description: 搜狗微信搜索，一搜即达。
     - title: 微博
-      logo: w/weibo.webp
+      logo: res.ccsyue.com/logos/w/weibo.webp
       url: https://weibo.com/
       description: 随时随地发现新鲜事。
     - title: 推特
-      logo: x/x-twitter.webp
+      logo: res.ccsyue.com/logos/x/x-twitter.webp
       url: https://x.com/
       description: Twitter
     - title: 知乎
-      logo: z/zhihu.png
+      logo: res.ccsyue.com/logos/z/zhihu.png
       url: https://www.zhihu.com/
       description: 知乎社区。
     - title: 文心一言
       url: https://yiyan.baidu.com/
-      logo: y/yiyan-baidu-com.webp
+      logo: res.ccsyue.com/logos/y/yiyan-baidu-com.webp
       description: yiyan.baidu.com
     - title: ChatGPT
       url: https://chat.openai.com/
-      logo: c/chatgpt.webp
+      logo: res.ccsyue.com/logos/c/chatgpt.webp
       description: chat.openai.com
     - title: V2EX
-      logo: v/v2ex.jpg
+      logo: res.ccsyue.com/logos/v/v2ex.jpg
       url: https://www.v2ex.com/
       description: V2EX 创意工作者的社区。
       
@@ -344,71 +344,71 @@
     - term: 代码托管
       links:
         - title: GitHub
-          logo: g/github.webp
+          logo: res.ccsyue.com/logos/g/github.webp
           url: https://github.com/
           description: GitHub 开源社区。
         - title: Codeberg
-          logo: c/codeberg.webp
+          logo: res.ccsyue.com/logos/c/codeberg.webp
           url: https://codeberg.org/
           description: "基于 Forgejo，(欧盟)德国开发者维护的托管平台。"
         - title: GitCode
-          logo: g/gitcode.png
+          logo: res.ccsyue.com/logos/g/gitcode.png
           url: https://gitcode.com/
           description: 开发者的代码家园。
         - title: 码云
-          logo: g/gitee.webp
+          logo: res.ccsyue.com/logos/g/gitee.webp
           url: https://gitee.com/
           description: 基于 Git 的代码托管和研发协作平台。
         - title: CODING
-          logo: c/coding.webp
+          logo: res.ccsyue.com/logos/c/coding.webp
           url: https://coding.net/
           description: 一站式软件研发管理平台。
         - title: 阿里云效
-          logo: c/codeup.svg
+          logo: res.ccsyue.com/logos/c/codeup.svg
           url: https://codeup.aliyun.com/
           description: 企业级代码管理平台。
         - title: 极狐
-          logo: g/gitlab.webp
+          logo: res.ccsyue.com/logos/g/gitlab.webp
           url: https://jihulab.com/
           description: GitLab 极狐版 (JH)。
         - title: GitLab
-          logo: g/gitlab.webp
+          logo: res.ccsyue.com/logos/g/gitlab.webp
           url: https://gitlab.com/
           description: The One DevOps Platform.
         - title: AtomGit
-          logo: a/atomgit.png
+          logo: res.ccsyue.com/logos/a/atomgit.png
           url: https://atomgit.com/
           description: 开放原子开源基金会提供的代码托管平台。
         - title: Gitea
-          logo: g/gitea.svg
+          logo: res.ccsyue.com/logos/g/gitea.svg
           url: https://gitea.com/
           description: Git with a cup of tea!
         - title: Framagit
-          logo: f/framagit.svg
+          logo: res.ccsyue.com/logos/f/framagit.svg
           url: https://framagit.org
           description: 基于 GitLab 的法国公司，站点在德国。
     - term: 静态网站
       links: 
         - title: Webify
-          logo: c/cloud-tencent.webp
+          logo: res.ccsyue.com/logos/c/cloud-tencent.webp
           url: https://webify.cloudbase.net/
           description: 专为 Web 开发者打造的应用托管平台。
         - title: Netlify
-          logo: n/netlify.webp
+          logo: res.ccsyue.com/logos/n/netlify.webp
           url: https://app.netlify.com/
           description: Netlify 组合式 Web 平台。
         - title: Cloudflare Pages
-          logo: c/cloudflare-pages.webp
+          logo: res.ccsyue.com/logos/c/cloudflare-pages.webp
           url: https://pages.cloudflare.com/
           description: 前端开发人员协作和部署网站。
         - title: Vercel
-          logo: v/vercel.webp
+          logo: res.ccsyue.com/logos/v/vercel.webp
           url: https://vercel.com/
           description: 通过前端云构建和部署最佳的 Web 体验。
     - term: 开发工具
       links:
         - title: 开发者武器库
-          logo: d/devtool-tech.svg
+          logo: res.ccsyue.com/logos/d/devtool-tech.svg
           url: https://devtool.tech/
           description: 属于程序员的工具箱。
           
@@ -418,63 +418,63 @@
     - term: 邮箱服务
       links:
         - title: QQ 邮箱
-          logo: m/mail-qq.png
+          logo: res.ccsyue.com/logos/m/mail-qq.png
           url: http://mail.qq.com/
           description: 腾讯 QQ 邮箱。 
         - title: 阿里云邮箱
-          logo: m/mail-ali.png
+          logo: res.ccsyue.com/logos/m/mail-ali.png
           url: https://mail.aliyun.com/
           description: 阿里邮箱个人版。
         - title: 网易 163 邮箱
-          logo: n/netease.webp
+          logo: res.ccsyue.com/logos/n/netease.webp
           url: https://mail.163.com/
           description: 网易 163 免费邮箱。
         - title: 88 完美邮箱
-          logo: 8/88.jpg
+          logo: res.ccsyue.com/logos/8/88.jpg
           url: https://88.com/
           description: '88.com - 完美邮箱'
         - title: Email 完美邮箱
-          logo: e/emailcn.png
+          logo: res.ccsyue.com/logos/e/emailcn.png
           url: https://www.email.cn/
           description: 'Email.cn - 完美邮箱'
         - title: Gmail
-          logo: g/gmail.png
+          logo: res.ccsyue.com/logos/g/gmail.png
           url: https://mail.google.com/
           description: 谷歌 Gmail 邮箱。
         - title: Outlook
-          logo: o/outlook.webp
+          logo: res.ccsyue.com/logos/o/outlook.webp
           url: https://outlook.live.com/
           description: Free personal email and calendar from Microsoft.
     - term: 在线翻译
       links:
         - title: 有道词典
-          logo: y/youdao.png
+          logo: res.ccsyue.com/logos/y/youdao.png
           url: https://www.youdao.com/
           description: 免费，即时的多语种在线翻译。
         - title: 有道翻译
-          logo: y/youdao.png
+          logo: res.ccsyue.com/logos/y/youdao.png
           url: http://fanyi.youdao.com/
           description: 有道翻译。
         - title: 谷歌翻译
-          logo: t/translate-google.png
+          logo: res.ccsyue.com/logos/t/translate-google.png
           url: https://translate.google.com.hk/
           description: 谷歌翻译。
         - title: 百度翻译
-          logo: f/fanyi-baidu.png
+          logo: res.ccsyue.com/logos/f/fanyi-baidu.png
           url: https://fanyi.baidu.com/
           description: "200 种语言互译、沟通全世界！"
         - title: DeeL 翻译
-          logo: d/deepl.svg
+          logo: res.ccsyue.com/logos/d/deepl.svg
           url: https://www.deepl.com/translator
           description: 全世界最准确的翻译。
     - term: 求职招聘
       links:
         - title: 简单简历
-          logo: e/easycv.png
+          logo: res.ccsyue.com/logos/e/easycv.png
           url: https://easycv.cn/
           description: 五分钟打造互联网从业者的金牌简历。
         - title: 前程无忧
-          logo: 5/51job.jpg
+          logo: res.ccsyue.com/logos/5/51job.jpg
           url: https://www.51job.com/
           description: 51JOB - 前程无忧招聘网。
 
@@ -484,135 +484,135 @@
     - term: 在线科研
       links:
         - title: NCBI
-          logo: n/ncbi.webp
+          logo: res.ccsyue.com/logos/n/ncbi.webp
           url: https://www.ncbi.nlm.nih.gov/
           description: National Center for Biotechnology Information.
         - title: NCBI BLAST
-          logo: b/blast.png
+          logo: res.ccsyue.com/logos/b/blast.png
           url: https://blast.ncbi.nlm.nih.gov/Blast.cgi
           description: NCBI 的 BLAST 序列比对工具。
         - title: Bioconda
-          logo: b/bioconda.jpg
+          logo: res.ccsyue.com/logos/b/bioconda.jpg
           url: https://anaconda.org/bioconda/
           description: "Bioconda :: Anaconda.org."
         - title: CPAN
-          logo: m/metacpan.jpg
+          logo: res.ccsyue.com/logos/m/metacpan.jpg
           url: https://metacpan.org/
           description: Search the CPAN.
         - title: Galaxy 即时聊天
-          logo: g/gitter.jpg
+          logo: res.ccsyue.com/logos/g/gitter.jpg
           url: https://app.element.io/#/room/#galaxyproject:matrix.org
           description: Galaxy Chat on Matrix.
         - title: Galaxy Main
-          logo: g/galaxy-project.png
+          logo: res.ccsyue.com/logos/g/galaxy-project.png
           url: https://usegalaxy.org/
           description: Use Galaxy Main server.
         - title: Galaxy Project
-          logo: g/galaxy-logo.jpg
+          logo: res.ccsyue.com/logos/g/galaxy-logo.jpg
           url: https://galaxyproject.org/
           description: Galaxy Community Hub.
         - title: R Project
-          logo: r/r-project.webp
+          logo: res.ccsyue.com/logos/r/r-project.webp
           url: https://www.r-project.org/
           description: https://www.r-project.org
         - title: Bioconductor
-          logo: b/bioconductor.png
+          logo: res.ccsyue.com/logos/b/bioconductor.png
           url: http://www.bioconductor.org/
           description: http://www.bioconductor.org
         - title: RNAfold WebServer
-          logo: r/rna-tbi.webp
+          logo: res.ccsyue.com/logos/r/rna-tbi.webp
           url: http://rna.tbi.univie.ac.at/cgi-bin/RNAWebSuite/RNAfold.cgi
           description: RNA 分子二级结构预测。
         - title: CNGBDB
-          logo: d/db-cngb.png
+          logo: res.ccsyue.com/logos/d/db-cngb.png
           url: https://db.cngb.org/
           description: 国家基因库生命大数据平台。
         - title: '螺旋桨 - PaddleHelix'
           url: http://rna.baidu.com/
-          logo: r/rna-baidu.webp
+          logo: res.ccsyue.com/logos/r/rna-baidu.webp
           description: 百度飞桨深度学习框架。
         - title: 临床生信之家
           url: https://www.aclbi.com/
-          logo: a/aclbi.jpg
+          logo: res.ccsyue.com/logos/a/aclbi.jpg
           description: 生信之美，每一个科研者都值得拥有。
           
     - term: 云服务器
       links:
         - title: 阿里云
-          logo: a/aliyun.jpg
+          logo: res.ccsyue.com/logos/a/aliyun.jpg
           url: https://www.aliyun.com/
           description: 上云就上阿里云。
         - title: 腾讯云
-          logo: c/cloud-tencent.webp
+          logo: res.ccsyue.com/logos/c/cloud-tencent.webp
           url: https://cloud.tencent.com/
           description: 产业智变，云启未来。
         - title: 华为云
-          logo: h/huaweicloud.png
+          logo: res.ccsyue.com/logos/h/huaweicloud.png
           url: https://www.huaweicloud.com/
           description: 共建智能世界云底座。
         - title: 七牛云
-          logo: q/qiniu.jpg
+          logo: res.ccsyue.com/logos/q/qiniu.jpg
           url: https://www.qiniu.com/
           description: 一站式场景化智能视频云。
         - title: 京东云
-          logo: j/jdcloud.jpg
+          logo: res.ccsyue.com/logos/j/jdcloud.jpg
           url: https://www.jdcloud.com/
           description: 京东科技集团旗下领先的云计算品牌。
         - title: 云筏科技
-          logo: c/cloudraft.webp
+          logo: res.ccsyue.com/logos/c/cloudraft.webp
           url: https://www.cloudraft.cn/
           description: 云筏 - 科研云。
         - title: 极云普惠云电脑
-          logo: j/ji-cloud.png
+          logo: res.ccsyue.com/logos/j/ji-cloud.png
           url: https://www.ji-cloud.cn/
           description: 云电脑-云游戏-手机变电脑软件。
         - title: 青椒云
-          logo: q/qingjiaocloud.jpg
+          logo: res.ccsyue.com/logos/q/qingjiaocloud.jpg
           url: https://www.qingjiaocloud.com/
           description: 云桌面,一站式云电脑服务平台。
     - term: 科研绘图
       links: 
         - title: Hiplot
-          logo: h/hiplot.png
+          logo: res.ccsyue.com/logos/h/hiplot.png
           url: https://hiplot.com.cn/
           description: 基于 Web 技术开发的一个免费和综合的科学数据计算和可视化云平台。
         - title: ImageGP
-          logo: i/imagegp-ehbio.jpg
+          logo: res.ccsyue.com/logos/i/imagegp-ehbio.jpg
           url: http://www.ehbio.com/ImageGP/
           description: 易汉博生物信息在线作图。
         - title: 锐博 Galaxy 平台
-          logo: g/galaxy-project.png
+          logo: res.ccsyue.com/logos/g/galaxy-project.png
           url: http://galaxy.ribobio.com:8088/
           description: 锐博生物 Galaxy 在线平台，需要注册。
         - title: R Graph Gallery
-          logo: r/r-graph-gallery.png
+          logo: res.ccsyue.com/logos/r/r-graph-gallery.png
           url: https://www.r-graph-gallery.com/
           description: R 语言可视化案例网站。
         - title: Python Graph Gallery
-          logo: r/r-graph-gallery.png
+          logo: res.ccsyue.com/logos/r/r-graph-gallery.png
           description: Python 言可视化案例网站。
         - title: OmicShare Tools
-          logo: o/omicshare.jpg
+          logo: res.ccsyue.com/logos/o/omicshare.jpg
           url: https://www.omicshare.com/tools/
           description: 基迪奥生信云工具。
         - title: 韦恩图（Venn）
-          logo: v/venn.png
+          logo: res.ccsyue.com/logos/v/venn.png
           url: https://bioinformatics.psb.ugent.be/webtools/Venn/
           description: 计算和绘制自定义韦恩图。
         - title: 韦恩图（Venny）
-          logo: v/venn.png
+          logo: res.ccsyue.com/logos/v/venn.png
           url: https://bioinfogp.cnb.csic.es/tools/venny/index.html
           description: 在线的免费的韦恩图生成器。
         - title: 聚类图
-          logo: c/cluster.webp
+          logo: res.ccsyue.com/logos/c/cluster.webp
           url: http://www2.heatmapper.ca/expression/
           description: 免费的在线的聚类图绘制。
         - title: 微生信
-          logo: w/weishengxin.webp
+          logo: res.ccsyue.com/logos/w/weishengxin.webp
           url: http://www.bioinformatics.com.cn/
           description: 您身边的数据分析、可视化专家。
         - title: ChiPlot
-          logo: c/chiplot-online.webp
+          logo: res.ccsyue.com/logos/c/chiplot-online.webp
           url: https://www.chiplot.online/
           description: 'chiplot.online.'
 
@@ -623,107 +623,107 @@
       links:
         - title: 科技爱好者周刊
           url: http://www.ruanyifeng.com/blog/
-          logo: r/ruanyifeng.png
+          logo: res.ccsyue.com/logos/r/ruanyifeng.png
           description: 阮一峰的网络日志。
         - title: 生信爱好者周刊
           url: https://openbiox.github.io/weekly/
-          logo: o/openbiox-weekly.png
+          logo: res.ccsyue.com/logos/o/openbiox-weekly.png
           description: 记录每周值得分享的生信相关内容，周日发布。
         - title: 产品变现周刊
           url: https://www.ezindie.com/weekly
-          logo: e/ezindie-weekly.png
+          logo: res.ccsyue.com/logos/e/ezindie-weekly.png
           description: 独立开发变现人物志、产品周刊、工具集。
         - title: 财新周刊
           url: https://weekly.caixin.com/
-          logo: c/caixin-weekly.png
+          logo: res.ccsyue.com/logos/c/caixin-weekly.png
           description: 财新网周刊，财新网为原创财经新媒体。
         - title: 偷懒爱好者周刊
           url: https://toolight.zhubai.love/
-          logo: z/zhubai.webp
+          logo: res.ccsyue.com/logos/z/zhubai.webp
           description: '偷懒爱好者周刊，分享产品、工具、新鲜事，每周三发布。'
         - title: 老胡的信息周刊
           url: https://weekly.howie6879.com/
-          logo: h/howie6879-weekly.webp
+          logo: res.ccsyue.com/logos/h/howie6879-weekly.webp
           description: 记录老胡每周看到的优质资源，包含项目、软件、资料、网站。
         - title: Python 潮流周刊
           url: https://pythoncat.top/
-          logo: p/pythoncat.webp
+          logo: res.ccsyue.com/logos/p/pythoncat.webp
           description: '豌豆花下猫，Python 编程。'
         - title: 二丫讲梵
           url: https://wiki.eryajf.net/
-          logo: e/eryajf.webp
+          logo: res.ccsyue.com/logos/e/eryajf.webp
           description: '运维技术和 Go 语言周边为主，辅以 GitHub 上优秀项目或他人优秀经验。'
         - title: '1Link.Fun'
           url: https://1link.fun/blog/
-          logo: 1/1linkfun.webp
+          logo: res.ccsyue.com/logos/1/1linkfun.webp
           description: '一个分享有趣科技新闻, 实用工具网站, 消磨时间利器的互联网杂志。'
     - term: 博客站点
       links:
         - title: 博友圈
-          logo: b/boyouquan.webp
+          logo: res.ccsyue.com/logos/b/boyouquan.webp
           url: https://www.boyouquan.com/
           description: 博客人的朋友圈。
         - title: 酷壳
           url: https://www.coolshell.cn/
-          logo: c/coolshell.webp
+          logo: res.ccsyue.com/logos/c/coolshell.webp
           description: 酷壳 – CoolShell。
         - title: "Yihui Xie | 谢益辉"
-          logo: y/yihui.png
+          logo: res.ccsyue.com/logos/y/yihui.png
           url: https://yihui.org/
           description: 谢益辉的个人网站。
         - title: 生信菜鸟团
           url: http://www.bio-info-trainee.com/
-          logo: b/bio-info-trainee.png
+          logo: res.ccsyue.com/logos/b/bio-info-trainee.png
           description: Jimmy 的个人博客笔记。
         - title: 思考问题的熊
           url: https://kaopubear.top/
-          logo: k/kaopubear.png
+          logo: res.ccsyue.com/logos/k/kaopubear.png
           description: 中科院生物信息学博士，生物医疗相关。
         - title: 徐洲更的第二大脑
           url: https://xuzhougeng.top/
-          logo: x/xuzhougeng.webp
+          logo: res.ccsyue.com/logos/x/xuzhougeng.webp
           description: 中科院博士，编程技术爱好者。
     - term: 教育平台
       links:
         - title: 广州安全教育平台
           url: https://guangzhou.xueanquan.com/
-          logo: x/xueanquan.jpg
+          logo: res.ccsyue.com/logos/x/xueanquan.jpg
           description: 广州市学校安全教育平台。
     - term: 书籍文档
       links:
         - title: 微信读书
           url: https://weread.qq.com/
-          logo: w/weread-qq.jpg
+          logo: res.ccsyue.com/logos/w/weread-qq.jpg
           description: 微信读书电脑版。
         - title: 'Neat Reader'
           url: https://www.neat-reader.cn/
-          logo: n/neat-reader.jpg
+          logo: res.ccsyue.com/logos/n/neat-reader.jpg
           description: 新世代 ePub/Txt 阅读器。
         - title: 书栈网
           url: https://www.bookstack.cn/
-          logo: b/bookstack.png
+          logo: res.ccsyue.com/logos/b/bookstack.png
           description: IT 互联网开源编程书籍免费阅读与下载。
         - title: 'Qi Reader'
           url: https://www.qireader.com/
-          logo: q/qireader.png
+          logo: res.ccsyue.com/logos/q/qireader.png
           description: 优雅的在线 RSS 阅读器。
     - term: 视频教程
       links:
         - title: Photoshop Lady
           url: http://www.photoshoplady.com/
-          logo: p/photoshoplady.png
+          logo: res.ccsyue.com/logos/p/photoshoplady.png
           description: Your Favourite Photoshop Tutorials in One Place.
         - title: doyoudo
           url: http://doyoudo.com/
-          logo: d/doyoudo.png
+          logo: res.ccsyue.com/logos/d/doyoudo.png
           description: 创意设计软件学习平台。
         - title: 没位道
           url: http://www.c945.com/web-ui-tutorial/
-          logo: w/web-ui-tutorial.png
+          logo: res.ccsyue.com/logos/w/web-ui-tutorial.png
           description: WEB UI免费视频公开课。
         - title: 慕课网
           url: https://www.imooc.com/
-          logo: i/imooc.png
+          logo: res.ccsyue.com/logos/i/imooc.png
         
 - taxonomy: 悠闲娱乐
   icon: fas fa-mug-hot
@@ -731,57 +731,57 @@
     - term: 影音视频
       links:
         - title: 腾讯视频
-          logo: v/v-qq.png
+          logo: res.ccsyue.com/logos/v/v-qq.png
           url: http://v.qq.com/
           description: 腾讯视频，海量视频在线观看。
         - title: 咪咕视频
-          logo: m/miguvideo.jpg
+          logo: res.ccsyue.com/logos/m/miguvideo.jpg
           url: https://www.miguvideo.com/
           description: 在线视频播放平台。
         - title: 抖音
-          logo: d/douyin.png
+          logo: res.ccsyue.com/logos/d/douyin.png
           url: https://www.douyin.com/
           description: 抖音-记录美好生活。
         - title: 优酷
-          logo: y/youku.png
+          logo: res.ccsyue.com/logos/y/youku.png
           url: http://www.youku.com/
           description: 优酷 - 这个世界很酷。
         - title: 爱奇艺
-          logo: i/iqiyi.png
+          logo: res.ccsyue.com/logos/i/iqiyi.png
           url: https://www.iqiyi.com/
           description: 爱奇艺在线视频。
         - title: 哔哩哔哩
-          logo: b/bilibili.png
+          logo: res.ccsyue.com/logos/b/bilibili.png
           url: https://www.bilibili.com/
           description: Bilibili 视频弹幕网站。
         - title: QQ 音乐
-          logo: y/y-qq.jpg
+          logo: res.ccsyue.com/logos/y/y-qq.jpg
           url: https://y.qq.com/
           description: QQ 音乐，在线听歌。
         - title: 网易云音乐
-          logo: m/music-163.png
+          logo: res.ccsyue.com/logos/m/music-163.png
           url: https://music.163.com/
           description: 163 网易云音乐。
         - title: 电影天堂
-          logo: d/dygod.png
+          logo: res.ccsyue.com/logos/d/dygod.png
           url: https://www.dygod.org/
           description: "www.dygod.org。"
     - term: 游戏竞技
       links:
         - title: 战地之王（龙龙网）
-          logo: a/ava.webp
+          logo: res.ccsyue.com/logos/a/ava.webp
           url: http://ava.llwl.cn/
           description: 龙龙网络 AVA 战地之王。
         - title: 战地之王（台服）
-          logo: a/ava.webp
+          logo: res.ccsyue.com/logos/a/ava.webp
           url: https://ava.mangot5.com/ava/index
           description: 台服 AVA 战地之王。
         - title: 战地之王（国际服）
-          logo: a/ava.webp
+          logo: res.ccsyue.com/logos/a/ava.webp
           url: https://avaonline.global/
           description: The official A.V.A Global.
         - title: Steam
-          logo: s/steam.jpg
+          logo: res.ccsyue.com/logos/s/steam.jpg
           url: https://store.steampowered.com/
           description: 欢迎来到 Steam。
 
@@ -792,138 +792,138 @@
       links:
         - title: 虎扑社区
           url: https://bbs.hupu.com/
-          logo: h/hupu-bbs.png
+          logo: res.ccsyue.com/logos/h/hupu-bbs.png
           description: 以体育赛事和日常生活为主的专业直文化社区。
         - title: 中羽在线社区
-          logo: b/badmintoncn-bbs.png
+          logo: res.ccsyue.com/logos/b/badmintoncn-bbs.png
           url: https://bbs.badmintoncn.com/portal.php
           description: 中羽在线社区-羽毛球友都在这！
         - title: 百度贴吧
-          logo: t/tieba-baidu.png
+          logo: res.ccsyue.com/logos/t/tieba-baidu.png
           url: https://tieba.baidu.com/index.html
           description: 百度贴吧。
         - title: 豆瓣
-          logo: d/douban.png
+          logo: res.ccsyue.com/logos/d/douban.png
           url: https://www.douban.com/
           description: 豆瓣社区。
         - title: Facebook
-          logo: f/facebook.png
+          logo: res.ccsyue.com/logos/f/facebook.png
           url: https://www.facebook.com/
           description: Facebook
         - title: NGA 玩家社区
           url: https://bbs.nga.cn/
-          logo: n/nga-bbs.png
+          logo: res.ccsyue.com/logos/n/nga-bbs.png
           description: 国内专业的游戏玩家社区。
     - term: 开源社区
       links:
         - title: openEuler
-          logo: o/openeuler.png
+          logo: res.ccsyue.com/logos/o/openeuler.png
           url: https://www.openeuler.org/
           description: 欧拉 openEuler 社区。
         - title: OpenAnolis
-          logo: o/openanolis.png
+          logo: res.ccsyue.com/logos/o/openanolis.png
           url: https://openanolis.cn/
           description: 龙蜥 OpenAnolis 社区。
         - title: Rocky Linux
-          logo: r/rockylinux.png
+          logo: res.ccsyue.com/logos/r/rockylinux.png
           url: https://rockylinux.org/
           description: Rocky Linux OS。
         - title: AlmaLinux
-          logo: a/almalinux.png
+          logo: res.ccsyue.com/logos/a/almalinux.png
           url: https://almalinux.org/
           description: AlmaLinux OS.
         - title: Openbiox
-          logo: o/openbiox.jpg
+          logo: res.ccsyue.com/logos/o/openbiox.jpg
           url: https://openbiox.org/
           description: 生物信息学开源社区。
         - title: 开源之夏
-          logo: s/summer-ospp.svg
+          logo: res.ccsyue.com/logos/s/summer-ospp.svg
           url: https://summer-ospp.ac.cn/
           description: 中科院软件所发起并长期支持的一项暑期开源活动。
     - term: 生信论坛
       links:
         - title: Biostars
           url: https://www.biostars.org/
-          logo: b/biostars.png
+          logo: res.ccsyue.com/logos/b/biostars.png
           description: Bioinformatics Answers.
         - title: OmicShare Forum
           url: https://www.omicshare.com/forum/forum.php
-          logo: o/omicshare-forum.png
+          logo: res.ccsyue.com/logos/o/omicshare-forum.png
           description: 广州基迪奥生物信息论坛。
         - title: 生信技能树
           url: http://www.biotrainee.com/
-          logo: b/biotrainee.jpg
+          logo: res.ccsyue.com/logos/b/biotrainee.jpg
           description: 帮助每一位生信人构建最完善的生信技能树。
         - title: BioLinkX
           url: https://www.yuque.com/biolinkx
-          logo: b/biolinks.png
+          logo: res.ccsyue.com/logos/b/biolinks.png
           description: BioLinkX 生物信息学协会。
         - title: BioAnno
           url: https://bioanno.com/
-          logo: b/bioanno.jpg
+          logo: res.ccsyue.com/logos/b/bioanno.jpg
           description: TBtools 技能易物社区。
           
     - term: 技术社区
       links:
         - title: 开源中国
           url: https://www.oschina.net/
-          logo: o/oschina.webp
+          logo: res.ccsyue.com/logos/o/oschina.webp
           description: 中文开源技术交流社区。
         - title: 'Stack Overflow'
           url: https://stackoverflow.com/
-          logo: s/stackoverflow.png
+          logo: res.ccsyue.com/logos/s/stackoverflow.png
           description: 'Where Developers Learn, Share, & Build Careers.'
         - title: 博客园
-          logo: c/cnblogs.jpg
+          logo: res.ccsyue.com/logos/c/cnblogs.jpg
           url: https://www.cnblogs.com/
           description: 开发者的网上家园。
         - title: 简书
           url: https://www.jianshu.com/
-          logo: j/jianshu.png
+          logo: res.ccsyue.com/logos/j/jianshu.png
           description: 简书 - 创作你的创作。
         - title: 稀土掘金
           url: https://juejin.cn/
-          logo: j/juejin.png
+          logo: res.ccsyue.com/logos/j/juejin.png
           description: 掘金 - 代码不止，掘进不停。
         - title: CSDN
           url: https://www.csdn.net/
-          logo: c/csdn.png
+          logo: res.ccsyue.com/logos/c/csdn.png
           description: CSDN - 专业开发者社区。
         - title: InfoQ
           url: https://www.infoq.cn/
-          logo: i/infoq.png
+          logo: res.ccsyue.com/logos/i/infoq.png
           description: 旨在促进软件开发领域知识与创新的传播。
         - title: SegmentFault
           url: https://segmentfault.com/
-          logo: s/segmentfault.png
+          logo: res.ccsyue.com/logos/s/segmentfault.png
           description: 思否，开发者技术社区。
         - title: 花粉俱乐部
-          logo: h/huaweicloud.png
+          logo: res.ccsyue.com/logos/h/huaweicloud.png
           url: https://club.huawei.com/
           description: 华为花粉俱乐部。
         - title: 荣耀俱乐部
-          logo: c/club-hihonor.jpg
+          logo: res.ccsyue.com/logos/c/club-hihonor.jpg
           url: https://club.hihonor.com/cn/
           description: 荣耀手机官方论坛。
         - title: 卡饭论坛
           url: https://bbs.kafan.cn/portal.php
-          logo: p/portal-kafan.jpg
+          logo: res.ccsyue.com/logos/p/portal-kafan.jpg
           description: 最好的软件论坛。
         - title: Inoreader
           url: https://www.inoreader.com/
-          logo: i/inoreader.png
+          logo: res.ccsyue.com/logos/i/inoreader.png
           description: 重新掌控你的新闻订阅源。
         - title: Hacker News
           url: https://news.ycombinator.com/
-          logo: h/hacker-news.png
+          logo: res.ccsyue.com/logos/h/hacker-news.png
           description: 一家关于计算机黑客和创业公司的社会化新闻网站。
         - title: 经管之家
           url: https://bbs.pinggu.org/
-          logo: p/pinggu-bbs.jpg
+          logo: res.ccsyue.com/logos/p/pinggu-bbs.jpg
           description: 国内活跃的经济、管理、金融、统计在线教育和咨询网站。
         - title: 统计之都
           url: https://cosx.org/
-          logo: c/cosx.png
+          logo: res.ccsyue.com/logos/c/cosx.png
           description: 一个旨在推广与应用统计学知识的网站和社区。
 
 - taxonomy: 工具集合
@@ -932,228 +932,228 @@
     - term: 图形文档
       links:
         - title: 'Flomo · 浮墨笔记'
-          logo: flomo.png
+          logo: res.ccsyue.com/logos/flomo.png
           url: https://flomoapp.com/
           description: 像发微博一样记笔记，记录你想法的川流。
         - title: 石墨文档
           url: https://shimo.im/
-          logo: s/shimo.webp
+          logo: res.ccsyue.com/logos/s/shimo.webp
           description: 支持多人协作的在线文档编辑工具。
         - title: 腾讯文档
           url: https://docs.qq.com/
-          logo: d/docs-qq.png
+          logo: res.ccsyue.com/logos/d/docs-qq.png
           description: 腾讯文档 - 官方网站。
         - title: ProcessOn
-          logo: p/processon.png
+          logo: res.ccsyue.com/logos/p/processon.png
           url: https://www.processon.com/
           description: 免费在线作图、实时协作。
         - title: 幕布
           url: https://mubu.com/
-          logo: m/mubu.jpg
+          logo: res.ccsyue.com/logos/m/mubu.jpg
           description: 极简大纲笔记，可以一键生成思维导图。
         - title: 百度脑图
           url: https://naotu.baidu.com/
-          logo: n/naotu-baidu.webp
+          logo: res.ccsyue.com/logos/n/naotu-baidu.webp
           description: 百度便捷的在线思维导图制作工具。
         - title: GitMind
           url: https://gitmind.cn/
-          logo: g/getmind.png
+          logo: res.ccsyue.com/logos/g/getmind.png
           description: 好用的全平台思维导图软件。
         - title: tinypng
           url: https://tinypng.com/
-          logo: tinypng.png
+          logo: res.ccsyue.com/logos/tinypng.png
           description: Optimize your images with a perfect balance in quality and file size.
         - title: goqr
           url: http://goqr.me/
-          logo: goqr.png
+          logo: res.ccsyue.com/logos/goqr.png
           description: create QR codes for free (Logo, T-Shirt, vCard, EPS).
         - title: ezgif
           url: https://ezgif.com
-          logo: ezgif.png
+          logo: res.ccsyue.com/logos/ezgif.png
           description: simple online GIF maker and toolset for basic animated GIF editing.
         - title: Android 9 patch
           url: http://inloop.github.io/shadow4android/
-          logo: Android9patch.png
+          logo: res.ccsyue.com/logos/Android9patch.png
           description: Android 9-patch shadow generator fully customizable shadows.
         - title: screen sizes
           url: http://screensiz.es/
-          logo: screensizes.png
+          logo: res.ccsyue.com/logos/screensizes.png
           description: Viewport Sizes and Pixel Densities for Popular Devices.
         - title: svgomg
           url: https://jakearchibald.github.io/svgomg/
-          logo: svgomg.png
+          logo: res.ccsyue.com/logos/svgomg.png
           description: SVG 在线压缩平台。
         - title: 稿定抠图
           url: https://www.gaoding.com
-          logo: gaoding.png
+          logo: res.ccsyue.com/logos/gaoding.png
           description: 免费在线抠图软件,图片快速换背景-抠白底图。
     - term: 图床运营
       links:
         - title: 腾讯问卷
           url: https://wj.qq.com/
-          logo: w/wj-qq.png
+          logo: res.ccsyue.com/logos/w/wj-qq.png
           description: 免费好用的问卷调查系统。
         - title: 草料二维码
           url: https://cli.im/
-          logo: c/cli-im.png
+          logo: res.ccsyue.com/logos/c/cli-im.png
           description: 将不同类型的内容生成二维码。
         - title: 'SM.MS'
           url: https://sm.ms/
-          logo: s/smms.png
+          logo: res.ccsyue.com/logos/s/smms.png
           description: 免费图床工具。
         - title: ImgURL
           url: https://www.imgurl.org/
-          logo: i/imgurl.png
+          logo: res.ccsyue.com/logos/i/imgurl.png
           description: 免费图片外链工具。
     - term: 视频语音
       links:
          - title: 一帧秒创
            url: https://aigc.yizhentv.com/
-           logo: 一帧秒创.png
+           logo: res.ccsyue.com/logos/一帧秒创.png
            description: AI 视频创作平台。
     - term: 谷歌插件
       links:
         - title: wappalyzer
           url: https://www.wappalyzer.com/
-          logo: wappalyzer.png
+          logo: res.ccsyue.com/logos/wappalyzer.png
           description: Identify technology on websites.
         - title: Panda
           url: http://usepanda.com/
-          logo: usepanda.png
+          logo: res.ccsyue.com/logos/usepanda.png
           description: A smart news reader built for productivity.
         - title: sizzy
           url: https://sizzy.co/
-          logo: sizzy.png
+          logo: res.ccsyue.com/logos/sizzy.png
           description: A tool for developing responsive websites crazy-fast.
         - title: csspeeper
           url: https://csspeeper.com/
-          logo: csspeeper.png
+          logo: res.ccsyue.com/logos/csspeeper.png
           description: Smart CSS viewer tailored for Designers.
         - title: insight
           url: http://insight.io/
-          logo: insight.png
+          logo: res.ccsyue.com/logos/insight.png
           description: IDE-like code search and navigation, on the cloud.
         - title: mustsee
           url: http://mustsee.earth/
-          logo: mustsee.png
+          logo: res.ccsyue.com/logos/mustsee.png
           description: Discover the world's most beautiful places at every opened tab.
     - term: 图形创意
       links:
         - title: photoshop
           url: https://www.adobe.com/cn/products/photoshop.html
-          logo: photoshop.png
+          logo: res.ccsyue.com/logos/photoshop.png
           description: Photoshop不需要解释
         - title: Affinity Designer
           url: https://affinity.serif.com/
-          logo: AffinityDesigner.png
+          logo: res.ccsyue.com/logos/AffinityDesigner.png
           description: 专业创意软件
         - title: Illustrator
           url: https://www.adobe.com/cn/products/illustrator/
-          logo: Illustrator.png
+          logo: res.ccsyue.com/logos/Illustrator.png
           description: 矢量图形和插图。
         - title: indesign
           url: http://www.adobe.com/cn/products/indesign.html
-          logo: INDESIGN .png
+          logo: res.ccsyue.com/logos/INDESIGN .png
           description: 页面设计、布局和出版。
         - title: cinema-4d
           url: https://www.maxon.net/en/products/cinema-4d/overview/
-          logo: cinema4d.png
+          logo: res.ccsyue.com/logos/cinema4d.png
           description: Cinema 4D is the perfect package for all 3D artists who want to achieve breathtaking results fast and hassle-free.
         - title: 3ds-max
           url: https://www.autodesk.com/products/3ds-max/overview
-          logo: 3dsmax.png
+          logo: res.ccsyue.com/logos/3dsmax.png
           description: 3D modeling, animation, and rendering software
         - title: Blender
           url: https://www.blender.org/
-          logo: blender.png
+          logo: res.ccsyue.com/logos/blender.png
           description: Blender is the free and open source 3D creation suite.
     - term: 界面设计
       links:
         - title: Sketch
           url: https://sketchapp.com/
-          logo: sketchapp.png
+          logo: res.ccsyue.com/logos/sketchapp.png
           description: The digital design toolkit
         - title: Adobe XD
           url: http://www.adobe.com/products/xd.html
-          logo: ADOBEXDCC.png
+          logo: res.ccsyue.com/logos/ADOBEXDCC.png
           description: Introducing Adobe XD. Design. Prototype. Experience.
         - title: invisionapp
           url: https://www.invisionapp.com/
-          logo: invisionapp.png
+          logo: res.ccsyue.com/logos/invisionapp.png
           description: Powerful design prototyping tools
         - title: marvelapp
           url: https://marvelapp.com/
-          logo: marvelapp.png
+          logo: res.ccsyue.com/logos/marvelapp.png
           description: Simple design, prototyping and collaboration
         - title: Muse CC
           url: https://creative.adobe.com/zh-cn/products/download/muse
-          logo: MuseCC.png
+          logo: res.ccsyue.com/logos/MuseCC.png
           description: 无需利用编码即可进行网站设计。
         - title: figma
           url: https://www.figma.com/
-          logo: figma.png
+          logo: res.ccsyue.com/logos/figma.png
           description: Design, prototype, and gather feedback all in one place with Figma.
     - term: 在线配色
       links:
         - title: khroma
           url: http://khroma.co/generator/
-          logo: khroma.png
+          logo: res.ccsyue.com/logos/khroma.png
           description: Khroma is the fastest way to discover, search, and save color combos you'll want to use.
         - title: uigradients
           url: https://uigradients.com
-          logo: uigradients.png
+          logo: res.ccsyue.com/logos/uigradients.png
           description: Beautiful colored gradients.
         - title: gradients
           url: http://gradients.io/
-          logo: gradients.png
+          logo: res.ccsyue.com/logos/gradients.png
           description: Curated gradients for designers and developers.
         - title: Coolest
           url: https://webkul.github.io/coolhue/
-          logo: Coolest.png
+          logo: res.ccsyue.com/logos/Coolest.png
           description: Coolest handpicked Gradient Hues for your next super ⚡ amazing stuff.
         - title: webgradients
           url: https://webgradients.com/
-          logo: webgradients.png
+          logo: res.ccsyue.com/logos/webgradients.png
           description: WebGradients is a free collection of 180 linear gradients that you can use as content backdrops in any part of your website. 
         - title: grabient
           url: https://www.grabient.com/
-          logo: grabient.png
+          logo: res.ccsyue.com/logos/grabient.png
           description: 2017 Grabient by unfold.
         - title: thedayscolor
           url: http://www.thedayscolor.com/
-          logo: thedayscolor.png
+          logo: res.ccsyue.com/logos/thedayscolor.png
           description: The daily color digest
         - title: flatuicolors
           url: http://flatuicolors.com/
-          logo: flatuicolors.png
+          logo: res.ccsyue.com/logos/flatuicolors.png
           description: Copy Paste Color Pallette from Flat UI Theme.
         - title: coolors
           url: https://coolors.co/
-          logo: coolors.png
+          logo: res.ccsyue.com/logos/coolors.png
           description: The super fast color schemes generator!
         - title: colorhunt
           url: http://www.colorhunt.co/
-          logo: colorhunt.png
+          logo: res.ccsyue.com/logos/colorhunt.png
           description: Beautiful Color Palettes.
         - title: Adobe Color CC
           url: https://color.adobe.com/zh/create/color-wheel
-          logo: AdobeColorCC.png
+          logo: res.ccsyue.com/logos/AdobeColorCC.png
           description: Create color schemes with the color wheel or browse thousands of color combinations from the Color community.
         - title: flatuicolorpicker
           url: http://www.flatuicolorpicker.com/
-          logo: flatuicolorpicker.png
+          logo: res.ccsyue.com/logos/flatuicolorpicker.png
           description: Best Flat Colors For UI Design.
         - title: trianglify
           url: http://qrohlf.com/trianglify-generator/
-          logo: trianglify.png
+          logo: res.ccsyue.com/logos/trianglify.png
           description: Trianglify Generator.
         - title: klart
           url: https://klart.co/colors/
-          logo: klart.png
+          logo: res.ccsyue.com/logos/klart.png
           description: Beautiful colors and designs to your inbox every week.
         - title: vanschneider
           url: http://www.vanschneider.com/colors
-          logo: vanschneider.png
+          logo: res.ccsyue.com/logos/vanschneider.png
           description: Color Claim was created in 2012 by Tobias van Schneider with the goal to collect & combine unique colors for my future projects.
 
       
@@ -1163,19 +1163,19 @@
     - term: 网盘资源
       links:
         - title: 百度网盘
-          logo: 百度网盘.jpg
+          logo: res.ccsyue.com/logos/百度网盘.jpg
           url: http://pan.baidu.com/
           description: https://pan.baidu.com/.
         - title: 阿里云盘
-          logo: 阿里云盘.png
+          logo: res.ccsyue.com/logos/阿里云盘.png
           url: https://www.aliyundrive.com/
           description: 阿里云盘，你的数字世界。
         - title: 天翼云盘
-          logo: 天翼云盘.jpg
+          logo: res.ccsyue.com/logos/天翼云盘.jpg
           url: https://cloud.189.cn/
           description: 家庭云|网盘|文件备份|资源分享。
         - title: 坚果云
-          logo: 坚果云.png
+          logo: res.ccsyue.com/logos/坚果云.png
           usrl: https://www.jianguoyun.com/
           description: 坚果云官网。
     - term: 图标素材
@@ -1189,215 +1189,215 @@
           url: https://favicon.im/
           description: Favicon.im/{domain},Instantly fetch and display the favicon for any website.
         - title: Iconfinder
-          logo: Iconfinder.png
+          logo: res.ccsyue.com/logos/Iconfinder.png
           url: https://www.iconfinder.com
           description: 2,100,000+ free and premium vector icons.
         - title: iconfont
-          logo: iconfont.png
+          logo: res.ccsyue.com/logos/iconfont.png
           url: http://www.iconfont.cn/
           description: 阿里巴巴矢量图标库。
         - title: iconmonstr
-          logo: iconmonstr.png
+          logo: res.ccsyue.com/logos/iconmonstr.png
           url: https://iconmonstr.com/
           description: Free simple icons for your next project.
         - title: Icon Archive
-          logo: iconarchive.png
+          logo: res.ccsyue.com/logos/iconarchive.png
           url: http://www.iconarchive.com/
           description: Search 590,912 free icons.
         - title: FindIcons
-          logo: FindIcons.png
+          logo: res.ccsyue.com/logos/FindIcons.png
           url: https://findicons.com/
           description: Search through 300,000 free icons.
         - title: IcoMoonApp
-          logo: IcoMoonApp.png
+          logo: res.ccsyue.com/logos/IcoMoonApp.png
           url: https://icomoon.io/app/
           description: Icon Font, SVG, PDF &amp; PNG Generator.
         - title: easyicon
-          logo: easyicon.png
+          logo: res.ccsyue.com/logos/easyicon.png
           url: http://www.easyicon.net/
           description: PNG、ICO、ICNS格式图标搜索、图标下载服务。
         - title: flaticon
-          logo: flaticon.png
+          logo: res.ccsyue.com/logos/flaticon.png
           url: https://www.flaticon.com/
           description: 634,000+ Free vector icons in SVG, PSD, PNG, EPS format or as ICON FONT.
         - title: UICloud
-          logo: UICloud.png
+          logo: res.ccsyue.com/logos/UICloud.png
           url: http://ui-cloud.com/
           description: The largest user interface design database in the world.
         - title: Material icons
-          logo: Materialicons.png
+          logo: res.ccsyue.com/logos/Materialicons.png
           url: https://material.io/icons/
           description: Access over 900 material system icons, available in a variety of sizes and densities, and as a web font.
         - title: Font Awesome Icon
-          logo: fontawesomeicon.png
+          logo: res.ccsyue.com/logos/fontawesomeicon.png
           url: https://fontawesome.com/icons/
           description: The complete set of 675 icons in Font Awesome.
         - title: ion icons
-          logo: ionicons.png
+          logo: res.ccsyue.com/logos/ionicons.png
           url: http://ionicons.com/
           description: The premium icon font for Ionic Framework.
         - title: Simpleline Icons
-          logo: simplelineicons.png
+          logo: res.ccsyue.com/logos/simplelineicons.png
           url: http://simplelineicons.com/
           description: Simple line Icons pack.
     - term: 图标设计
       links:
         - title: Iconsfeed
-          logo: iconsfeed.png
+          logo: res.ccsyue.com/logos/iconsfeed.png
           url: http://www.iconsfeed.com/
           description: iOS icons gallery.
         - title: iOS Icon Gallery
-          logo: iosicongallery.png
+          logo: res.ccsyue.com/logos/iosicongallery.png
           url: http://iosicongallery.com/
           description: Showcasing beautiful icon designs from the iOS App Store.
         - title: World Vector Logo
-          logo: worldvectorlogo.png
+          logo: res.ccsyue.com/logos/worldvectorlogo.png
           url: https://worldvectorlogo.com/
           description: Brand logos free to download.
         - title: Instant Logo Search
-          logo: InstantLogoSearch.png
+          logo: res.ccsyue.com/logos/InstantLogoSearch.png
           url: http://instantlogosearch.com/
           description: Search & download thousands of logos instantly.
     - term: 平面素材
       links:
         - title: freepik
-          logo: freepik.png
+          logo: res.ccsyue.com/logos/freepik.png
           url: https://www.freepik.com/
           description: More than a million free vectors, PSD, photos and free icons.
         - title: wallhalla
-          logo: wallhalla.png
+          logo: res.ccsyue.com/logos/wallhalla.png
           url: https://wallhalla.com/
           description: Find awesome high quality wallpapers for desktop and mobile in one place.
         - title: 365PSD
-          logo: 365PSD.png
+          logo: res.ccsyue.com/logos/365PSD.png
           url: https://365psd.com/
           description: Free PSD &amp; Graphics, Illustrations.
         - title: Medialoot
-          logo: Medialoot.png
+          logo: res.ccsyue.com/logos/Medialoot.png
           url: https://medialoot.com/
           description: Free &amp; Premium Design Resources &mdash; Medialoot.
         - title: 千图网
-          logo: qiantu.png
+          logo: res.ccsyue.com/logos/qiantu.png
           url: http://www.58pic.com/
           description: 专注免费设计素材下载的网站.
         - title: 千库网
-          logo: qianku.png
+          logo: res.ccsyue.com/logos/qianku.png
           url: http://588ku.com/
           description: 免费 png 图片背景素材下载。
         - title: 我图网
-          logo: wotu.png
+          logo: res.ccsyue.com/logos/wotu.png
           url: http://www.ooopic.com/
           description: 我图网，提供图片素材及模板下载，专注正版设计作品交易。
         - title: 90 设计
-          logo: 90sheji.png
+          logo: res.ccsyue.com/logos/90sheji.png
           url: http://90sheji.com/
           description: 电商设计（淘宝美工）千图免费淘宝素材库。
         - title: 昵图网
-          logo: nipic.png
+          logo: res.ccsyue.com/logos/nipic.png
           url: http://www.nipic.com/
           description: 原创素材共享平台。
         - title: 懒人图库
-          logo: lanrentuku.png
+          logo: res.ccsyue.com/logos/lanrentuku.png
           url: http://www.lanrentuku.com/
           description: 懒人图库专注于提供网页素材下载。
         - title: 素材搜索
-          logo: sousucai.png
+          logo: res.ccsyue.com/logos/sousucai.png
           url: http://so.ui001.com/
           description: 设计素材搜索聚合。
         - title: PS 饭团网
-          logo: psefan.png
+          logo: res.ccsyue.com/logos/psefan.png
           url: http://psefan.com/
           description: 不一样的设计素材库！让自己的设计与众不同！
         - title: 素材中国
-          logo: sccnn.png
+          logo: res.ccsyue.com/logos/sccnn.png
           url: http://www.sccnn.com/
           description: 免费素材共享平台。
     - term: 字体资源
       links:
         - title: Google Font
           url: https://fonts.google.com/
-          logo: googlefont.png
+          logo: res.ccsyue.com/logos/googlefont.png
           description: Making the web more beautiful, fast, and open through great typography.
         - title: Typekit
           url: https://typekit.com/
-          logo: typekit.png
+          logo: res.ccsyue.com/logos/typekit.png
           description: Quality fonts from the world’s best foundries.
         - title: 方正字库
           url: http://www.foundertype.com/
-          logo: Fondertype.png
+          logo: res.ccsyue.com/logos/Fondertype.png
           description: 方正字库官方网站。
         - title: 字体传奇网
           url: http://ziticq.com/
-          logo: ziticq.png
+          logo: res.ccsyue.com/logos/ziticq.png
           description: 中国首个字体品牌设计师交流网。
         - title: 私藏字体
           url: http://sicangziti.com/
-          logo: sicangziti.png
+          logo: res.ccsyue.com/logos/sicangziti.png
           description: 优质字体免费下载站。
         - title: Fontsquirrel
           url: https://www.fontsquirrel.com/
-          logo: fontsquirrel.png
+          logo: res.ccsyue.com/logos/fontsquirrel.png
           description: FREE fonts for graphic designers.
         - title: Urban Fonts
           url: https://www.urbanfonts.com/
-          logo: UrbanFonts.png
+          logo: res.ccsyue.com/logos/UrbanFonts.png
           description: Download Free Fonts and Free Dingbats.
         - title: Lost Type
           url: http://www.losttype.com/
-          logo: losttype.png
+          logo: res.ccsyue.com/logos/losttype.png
           description: Lost Type is a Collaborative Digital Type Foundry.
         - title: FONTS2U
           url: https://fonts2u.com/
-          logo: fonts2u.png
+          logo: res.ccsyue.com/logos/fonts2u.png
           description: Download free fonts for Windows and Macintosh.
         - title: Fontex
           url: http://www.fontex.org/
-          logo: fontex.png
+          logo: res.ccsyue.com/logos/fontex.png
           description: Free Fonts to Download + Premium Typefaces.
         - title: FontM
           url: http://fontm.com/
-          logo: FontM.png
+          logo: res.ccsyue.com/logos/FontM.png
           description: Free Fonts
         - title: My Fonts
           url: http://www.myfonts.com/
-          logo: MyFonts.png
+          logo: res.ccsyue.com/logos/MyFonts.png
           description: Fonts for Print, Products & Screens.
         - title: Da Font
           url: https://www.dafont.com/
-          logo: dafont.png
+          logo: res.ccsyue.com/logos/dafont.png
           description: Archive of freely downloadable fonts.
         - title: OnlineWebFonts
           url: https://www.onlinewebfonts.com/
-          logo: OnlineWebFonts.png
+          logo: res.ccsyue.com/logos/OnlineWebFonts.png
           description: WEB Free Fonts for Windows and Mac / Font free Download.
         - title: Abstract Fonts
           url: http://www.abstractfonts.com/
-          logo: abstractfonts.png
+          logo: res.ccsyue.com/logos/abstractfonts.png
           description: Abstract Fonts (13,866 free fonts).      
     - term: PPT资源
       links:
         - title: OfficePLUS
           url: http://www.officeplus.cn/Template/Home.shtml
-          logo: officeplus.png
+          logo: res.ccsyue.com/logos/officeplus.png
           description: OfficePLUS，微软Office官方在线模板网站！
         - title: 优品PPT
           url: http://www.ypppt.com/
-          logo: ypppt.png
+          logo: res.ccsyue.com/logos/ypppt.png
           description: 高质量的模版，而且还有PPT图表，PPT背景图等资源。
         - title: PPT+
           url: http://www.pptplus.cn/
-          logo: pptplus.png
+          logo: res.ccsyue.com/logos/pptplus.png
           description: PPT加直播、录制和分享—PPT+语音内容分享平台。
         - title: PPTMind
           url: http://www.pptmind.com/
-          logo: pptmind.png
+          logo: res.ccsyue.com/logos/pptmind.png
           description: 分享高端 ppt 模板与 keynote 模板的数字作品交易平台。
         - title: tretars
           url: http://www.tretars.com/ppt-templates
-          logo: tretars.png
+          logo: res.ccsyue.com/logos/tretars.png
           description: The best free Mockups from the Web.
         - title: 五百丁
           url: http://ppt.500d.me/
-          logo: 500d.png
+          logo: res.ccsyue.com/logos/500d.png
           description: 中国领先的PPT模板共享平台。
         
