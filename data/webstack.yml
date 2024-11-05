@@ -51,7 +51,7 @@
       
 - taxonomy: e-ccsyue
   icon: far fa-star
-  links: 
+  list: 
     - term: 文学
       links:
         - title: Neat Reader
@@ -1180,6 +1180,14 @@
           description: 坚果云官网。
     - term: 图标素材
       links:
+        - title: favicon
+          logo: https://favicon.im/favicon.im
+          url: https://favicon.im/
+          description: Favicon.im/{domain},Instantly fetch and display the favicon for any website.
+        - title: favicon
+          logo: https://favicon.im/favicon.im
+          url: https://favicon.im/
+          description: Favicon.im/{domain},Instantly fetch and display the favicon for any website.
         - title: Iconfinder
           logo: Iconfinder.png
           url: https://www.iconfinder.com
