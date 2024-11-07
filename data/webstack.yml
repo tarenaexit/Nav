@@ -208,12 +208,10 @@
           logo: favicon.im/deffyc.gicp.net
           url: http://deffyc.gicp.net
           description: 祥和
-    - term: #收藏夹
-      links:
-        - title: #祥和Nas
+        - title: 祥和Nas
           logo: favicon.im/cloud.ccsyue.com
-          url: #http://cloud.ccsyue.com
-          description: #祥和
+          url: http://cloud.ccsyue.com
+          description: 祥和
     - term: 收藏夹
       links:
         - title: 祥和Plex
@@ -238,15 +236,15 @@
       links:
         - title: 馆藏检索
           logo: favicon.im/eh.ccsyue.com
-          url: http://e.ccsyue.com/tool/basic/web/index.php?r=cat/index&sort=-createtime
+          url: http://eh.ccsyue.com/tool/basic/web/index.php?r=cat/index&sort=-createtime
           description: 二中图书馆馆藏检索，三步借书：第一步：打开http://www.hj2z.com ，点击“馆藏检索”链接。第二步：搜索想看的，在纸片上抄下索书号和书名。第三步：带上读者证和纸片，到二楼藏书室取书。
         - title: 报刊检索
           logo: favicon.im/eh.ccsyue.com
-          url: http://e.ccsyue.com/tool/basic/web/index.php?r=paper
+          url: http://eh.ccsyue.com/tool/basic/web/index.php?r=paper
           description: 查找学校阅览室的报纸杂志，不知道地方可以问管理员
         - title: 馆藏定位
           logo: favicon.im/eh.ccsyue.com
-          url: http://e.ccsyue.com/tool/searchkeys/
+          url: http://eh.ccsyue.com/tool/searchkeys/
           description: 据索书号、图书编号搜索图书位置
 
 
