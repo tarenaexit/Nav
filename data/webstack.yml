@@ -63,8 +63,8 @@
           url: http://s.yc.lhlib.vip/
           description: 联合网络图书馆在线目录为全国中小型图书馆提供了国内所有入网用户的图书馆资源，是全国资源共享的整合平台，读者通过本平台可以享受丰富的资源服务和个性化现代服务，如在线图书推荐、为图书增加书签、进行书评，查阅自己所借的图书以及网上预约、续借等服务，读者可以通过自己本馆所提供的账户获取更多的服务细节以及个人相关信息的更新。欢迎各类图书馆免费索取测试帐号和密码。如果您在使用过程中有更好的建议，欢迎致电0351-6014519或发邮件致mdlib@tyut.edu.cn
         - title: 百花苑
-          logo: favicon.im/jiehou.oschina.io
-          url: http://jiehou.oschina.io/baihuayuan/
+          logo: favicon.im/gitee.com
+          url: https://gitee.com/jiehou/baihuayuan
           description: 提高作文水平的文摘。
         - title: 新语丝
           logo: favicon.im/xys.org
@@ -84,12 +84,8 @@
           description: Chinese Library Classification简称《中图法》，是建国后编制出版的一部具有代表性的大型综合性分类法，是当今国内图书馆使用最广泛的分类法体系。
         - title: CALIS
           logo: favicon.im/opac.calis.edu.cn
-          url: http://opac.calis.edu.cn/opac/doSimpleQuery.do?query=(bath.isbn=%229787547724071*%22)&maximumRecords=50
+          url: http://opac.calis.edu.cn/opac/doSimpleQuery.do?pagingType=0&query=%28bath.isbn%3D%229787547724071*%22%29&maximumRecords=50
           description: 中国高等教育文献保障系统（China Academic Library & Information System,简称CALIS），是经国务院批准的我国高等教育“211工程”“九五”“十五”总体规划中三个公共服务体系之一。CALIS的宗旨是,在教育部的领导下，把国家的投资、现代图书馆理念、先进的技术手段、高校丰富的文献资源和人力资源整合起来，建设以中国高等教育数字图书馆为核心的教育文献联合保障体系，实现信息资源共建、共知、共享，以发挥最大的社会效益和经济效益，为中国的高等教育服务。 
-        - title: readfree
-          logo: favicon.im/readfree.me
-          url: http://readfree.me
-          description: 基于豆瓣和 Kindle239 的电子书阅读平台,为爱读书的人提供便利.
         - title: 美国国家学术出版社
           logo: favicon.im/www.nap.edu
           url: https://www.nap.edu
@@ -104,10 +100,6 @@
           logo: favicon.im/www.ccsyue.com
           url: http://www.ccsyue.com
           description: 以前的文章
-        - title: kindleEar
-          logo: favicon.im/houjie-kindle.appspot.com
-          url: http://houjie-kindle.appspot.com
-          description: A website application running in Google app engine, deliver rss news to your kindle. generate mobi using python, multilanguages supported.
         - title: 如有乐享
           logo: favicon.im/51.ruyo.net
           url: https://51.ruyo.net
@@ -127,8 +119,8 @@
           url: https://kast.gg/
           description: 原rabb.it应用
         - title: 手写查字
-          logo: favicon.im/e.ccsyue.com
-          url: https://e.ccsyue.com/tool/dic/
+          logo: favicon.im/hanzi.unihan.com.cn
+          url: https://www.qhanzi.com/index.zh-CN.html
           description: 手写汉字在百度汉语里查音、义，无广告。
         - title: excel to json
           logo: favicon.im/www.papaparse.com
@@ -164,10 +156,10 @@
           description: 1900-2100年阴历阳历互换。
     - term: 收藏夹
       links:
-        - title: 解析大师
-          logo: favicon.im/jx.htv009.com
-          url: https://jx.htv009.com/?url=
-          description: 本解析全部免费,长期稳定,绝无广告！可自己下载源码搭建自己的解析平台！诚意良心提供JSON接口，输出无任何加密处理的结果，方便大家接入ＡＰＰ
+        - title: 阿怪API接口站
+          logo: favicon.im/api.aag.moe
+          url: https://api.aag.moe/
+          description: 阿怪API接口站 不与任何网站合作, 也不提供任何形式的收费服务。所有服务都是完全免费提供的。
         - title: 小众软件
           logo: favicon.im/love.appinn.com
           url: http://love.appinn.com/
@@ -188,50 +180,36 @@
           logo: favicon.im/oa.sandcats.io
           url: https://oa.sandcats.io/
           description: 我的在线工具箱
-        - title: 爱信息图床
-          logo: favicon.im/tu.aixinxi.net
-          url: https://tu.aixinxi.net
+        - title: 图床
+          logo: favicon.im/picx.ccsyue.com
+          url: https://picx.ccsyue.com/
           description: 文件类别多，最大10M
         - title: SM.MS图床
           logo: favicon.im/sm.ms
           url: https://sm.ms
           description: 只能上传图片，最大5M
-        - title: firefox send
-          logo: favicon.im/send.firefox.com
-          url: https://send.firefox.com/
-          description: 通过安全、私密且受加密的链接发送文件，链接到期后文件将从网上彻底抹除。
+        - title: pairdrop
+          logo: favicon.im/pairdrop.net
+          url: https://pairdrop.net/
+          description: 最简单的跨设备传输方案
         - title: 访问助手
-          logo: favicon.im/ggfwzs.com
-          url: http://ggfwzs.com/
+          logo: favicon.im/google.com
+          url: http://i.ccsyue.com/
           description: 谷歌访问助手，谷歌chrome浏览器商店，gmail邮箱提供加速服务，解决偶尔打不开的问题
-        - title: 祥和路由
-          logo: favicon.im/deffyc.gicp.net
-          url: http://deffyc.gicp.net
-          description: 祥和
-        - title: 祥和Nas
-          logo: favicon.im/cloud.ccsyue.com
-          url: http://cloud.ccsyue.com
-          description: 祥和
-    - term: 收藏夹
-      links:
-        - title: 祥和Plex
-          logo: favicon.im/plex.ccsyue.com
-          url: http://plex.ccsyue.com
-          description: 祥和
     - term: 看看
       links:
         - title: 缠论K线
           logo: favicon.im/e.ccsyue.com
-          url: https://e.ccsyue.com/tool/chanlun/
+          url: http://da.ccsyue.com/chanlun/jichu/index.htm
           description: K线
         - title: tube video
-          logo: favicon.im/hutube.herokuapp.com
-          url: https://hutube.herokuapp.com/
+          logo: favicon.im/invidious.io/
+          url: https://n.ccsyue.com/
           description: tube video
-        - title: gdshare
-          logo: favicon.im/hougd.herokuapp.com
-          url: https://hougd.herokuapp.com/
-          description: gdshare
+        - title: wikimedia
+          logo: favicon.im/www.wikipedia.org
+          url: https://g.ccsyue.com/
+          description: wikimedia
     - term: 图书
       links:
         - title: 馆藏检索
