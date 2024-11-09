@@ -32,13 +32,13 @@ publishDir            = "public"				# 站点静态文件保存目录
     key = "085791e805a24491b43b06cf58ab31e7"
 
 [params.images]
-    favicon           = "https://res.ccsyue.com/sites/bi-favicon.png"
+    favicon           = "https://res.ccsyue.com/sites/doc.png"
     searchImageL      = "https://res.ccsyue.com/banner/bg-dna.jpg"	# 搜索部分浅色背景图
     searchImageD      = "https://res.ccsyue.com/banner/bg-dna.jpg"	# 搜索部分深色背景图
     logoExpandLight   = "https://res.ccsyue.com/sites/bioit-expand-dark.png"
     logoExpandDark    = "https://res.ccsyue.com/sites/bioit-expand-light.png"
-    logoCollapseLight = "https://res.ccsyue.com/sites/bi.png"
-    logoCollapseDark  = "https://res.ccsyue.com/sites/bi.png"
+    logoCollapseLight = "https://res.ccsyue.com/sites/doc.png"
+    logoCollapseDark  = "https://res.ccsyue.com/sites/doc.png"
     
 [markup.goldmark.renderer]
     unsafe = true
