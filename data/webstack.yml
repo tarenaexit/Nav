@@ -24,25 +24,25 @@
       url: https://fangzhouzi.tumblr.com/
       description: 方舟子博客
     - title: 知识花园
-      logo: res.ccsyue.com/logos/o/octocat.png
-      url: https://weiyan.cc
+      logo: res.ccsyue.com/sites/doc.png
+      url: https://doc.ccsyue.com
       description: 基于 MkDocs Material 个人站点。
-    - title: BioIT 爱好者
-      logo: res.ccsyue.com/logos/b/bioitee.webp
-      url: https://www.bioitee.com/
+    - title: blueskye
+      logo: favicon.im/bsky.app
+      url: https://n.ccsyue.com/
       description: BioIT 爱好者主页。
     - title: Markdown2Html
       logo: res.ccsyue.com/logos/m/markdown.png
       url: https://md.bioitee.com/
       description: 公众号 Markdown 排版利器。
-    - title: 飞书消息
-      logo: res.ccsyue.com/logos/l/lark-suite.webp
-      url: https://shenweiyan.feishu.cn/next/messenger
-      description: 先进企业，先用飞书。
-    - title: 'Lark Suite Messenger'
-      logo: res.ccsyue.com/logos/l/lark-suite.webp
-      url: https://shenweiyan.sg.larksuite.com/next/messenger
-      description: 先进企业协作与管理平台。
+    - title: image cache
+      logo: favicon.im/images.weserv.nl
+      url: https://weserv.ccsyue.com
+      description: wsrv.nl,An image cache & resize service,Manipulate images on-the-fly with a worldwide cache.
+    - title: 'fang posts'
+      logo: favicon.im/fangzhouzi.tumblr.com
+      url: https://posts.ccsyue.com
+      description: fang。
     - title: 关注我们
       logo: res.ccsyue.com/logos/q/qrcode.png
       url: https://www.bioitee.com
