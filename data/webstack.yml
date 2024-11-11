@@ -15,10 +15,10 @@
       logo: res.ccsyue.com/logos/p/pintree.PNG
       url: https://pintree.io/json-converter.html
       description: 书签html转 pintree 可是识别的json格式
-    - title: '史提芬先森 · 语雀'
-      logo: res.ccsyue.com/logos/y/yuque.webp
-      url: https://www.yuque.com/shenweiyan
-      description: 作者的语雀花园主页。
+    - title: 'ai导航'
+      logo: res.ccsyue.com/logos/y/www.ckvmk.com
+      url: https://www.ckvmk.com
+      description: 搜索补充
     - title: Knowledge-Garden
       logo: res.ccsyue.com/logos/k/knowledge-garden.webp
       url: https://github.com/shenweiyan/Knowledge-Garden
