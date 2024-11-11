@@ -50,7 +50,7 @@
       description: 微信公众号：BioIT 爱好者！
 
 - taxonomy: e-ccsyue
-  icon: far fa-star
+  icon: fas fa-recycle
   list: 
     - term: 文学
       links:
