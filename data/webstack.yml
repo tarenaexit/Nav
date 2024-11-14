@@ -72,7 +72,7 @@
           description: 杜甫是唐代最伟大的诗人，他的作品各体俱工，是一代宗匠。但他的绝句，却与盛唐诸名家有些不同。他以高度的创造力，于诸家之外，努力创新，别开生面，胆大手灵，不受拘束，不因袭成法。
         - title: 歇后语
           logo: favicon.im/e.ccsyue.com
-          url: https://e.ccsyue.com/tool/msg/xiehouyu/
+          url: http://e.ccsyue.com/tool/msg/xiehouyu/
           description: 亲自操刀整理。
         - title: 中图法
           logo: favicon.im/www.clcindex.com
@@ -104,11 +104,11 @@
       links:
         - title: MD表格
           logo: favicon.im/e.ccsyue.com
-          url: https://e.ccsyue.com/tool/exceltomarkdown/
+          url: http://e.ccsyue.com/tool/exceltomarkdown/
           description: excel粘贴到文本框（不能包含合并单元格），可以转换为markdown格式的表格。
         - title: markdown
           logo: favicon.im/e.ccsyue.com
-          url: https://e.ccsyue.com/tool/markdown/
+          url: http://e.ccsyue.com/tool/markdown/
           description: markdown 在线编辑与预览
         - title: kast
           logo: favicon.im/kast.gg
@@ -124,23 +124,23 @@
           description: excel转json,csv转json
         - title: 定时器
           logo: favicon.im/e.ccsyue.com
-          url: https://e.ccsyue.com/tool/timer/
+          url: http://e.ccsyue.com/tool/timer/
           description: 这是一个简单的在线定时器，只要能上网，浏览器支持 JavaScript 就可以使用。甚至在 iPhone, iPad 等移动设备上也能很好的运行。如果你需要一些短期的提醒，或是上网期间的提醒，完全不必启动 Aero Timer Plus 或是 Aero Timer One，直接访问 aerotimer.com 就可以了。
         - title: 文本去重
           logo: favicon.im/e.ccsyue.com
-          url: https://e.ccsyue.com/tool/quchong/
+          url: http://e.ccsyue.com/tool/quchong/
           description: （按行=>'\n'）,windows下默认回车键是\r\n，从前往后复制没问题，从后往前最后一样必须为空行。将文本粘贴到文本框即按顺序去重。
         - title: 导入Json
           logo: favicon.im/e.ccsyue.com
-          url: https://e.ccsyue.com/tool/apicloadimport/
+          url: http://e.ccsyue.com/tool/apicloadimport/
           description: 下载到本地配合hfs.exe使用
         - title: 阅后即焚
           logo: favicon.im/e.ccsyue.com
-          url: https://e.ccsyue.com/tool/msg/
+          url: http://e.ccsyue.com/tool/msg/
           description: 方便手机与电脑之间的文本传输。
         - title: 文本转音频
           logo: favicon.im/e.ccsyue.com
-          url: https://e.ccsyue.com/tool/duoyin/
+          url: http://e.ccsyue.com/tool/duoyin/
           description: 需要开启专用转换程序
         - title: 智图
           logo: favicon.im/zhitu.isux.us
@@ -148,7 +148,7 @@
           description: 智图是腾讯ISUX前端团队开发的一个专门用于图片压缩和图片格式转换的平台，其功能包括针对png,jpeg,gif等各类格式图片的压缩，以及为上传图片自动选择最优的图片格式。同时，智图平台还会为用户转换一份webp格式的图片。
         - title: 阴历阳历
           logo: favicon.im/e.ccsyue.com
-          url: https://e.ccsyue.com/tool/calendar/
+          url: http://e.ccsyue.com/tool/calendar/
           description: 1900-2100年阴历阳历互换。
     - term: 收藏夹
       links:
