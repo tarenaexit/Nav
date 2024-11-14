@@ -19,6 +19,10 @@
       logo: favicon.im/www.ckvmk.com
       url: https://www.ckvmk.com
       description: 搜索补充
+    - title: '图片缓存'
+      logo: favicon.im/e.ccsyue.com
+      url: http://e.ccsyue.com/tool/msg/?no=114
+      description: 'let pic_pre="https://weserv.ccsyue.com/?url=";[...document.querySelectorAll("img")].map((item, index)=> {if(!item.src.includes(pic_pre))item.src=pic_pre+item.src;}'
     - title: 方舟子博客
       logo: favicon.im/fangzhouzi.tumblr.com
       url: https://fangzhouzi.tumblr.com/
