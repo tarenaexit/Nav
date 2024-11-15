@@ -43,12 +43,12 @@
       logo: favicon.im/images.weserv.nl
       url: https://weserv.ccsyue.com
       description: wsrv.nl,An image cache & resize service,Manipulate images on-the-fly with a worldwide cache.
-    - title: 关注我们
-      logo: res.ccsyue.com/logos/q/qrcode.png
-      url: https://www.bioitee.com
-      qrcode: https://res.bioit.top/logos/qrcode.jpg
-      description: 微信公众号：BioIT 爱好者！
-
+    - title: latex公式编辑器
+      logo: favicon.im/www.processon.com
+      url: https://www.processon.com/latex
+      qrcode: https://res.bioit.top/sites/www.processon.com_latex.jpg
+      description: latex公式编辑器
+      
 - taxonomy: e-ccsyue
   icon: fas fa-recycle
   list: 
